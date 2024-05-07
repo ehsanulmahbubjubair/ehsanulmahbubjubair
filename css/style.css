@@ -98,7 +98,7 @@ section {
     50% {
         transform: translateY(-2.4rem);
     }
-    
+
     100% {
         transform: translateY(0);
     }
@@ -524,4 +524,5 @@ span {
         text-align: center;
         margin-top: 2rem;
     }
+
 }
