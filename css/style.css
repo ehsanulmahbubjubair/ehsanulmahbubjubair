@@ -373,12 +373,12 @@ span {
     text-align: center;
 }
 
-form .input--box {
+form .input-box {
     display: flex;
     justify-content: space-between;
 }
 
-.input--box .input-field {
+.input-box .input-field {
     width: 48.5%;
 }
 
@@ -587,7 +587,7 @@ form button:hover {
         font-size: 50%;
     }
 
-    .contact form .input-box input {
+    .contact form .input--box.input-field input {
         width: 100%;
     }
 }
